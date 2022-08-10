@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fixurinternet
+- 👋 Hi, I’m @Fixurinternet, you can also call me Ignacio, Aspiring self-taught software developer.
 - 👀 I’m interested in Coding, travelling around the world, meeting new people, learn something new everyday and i love to play video games in my freetime!
 - 🌱 I’m currently learning Css and JavaScript
 - 💞️ I’m looking to collaborate on with companies and see if i can help a bit with my code!
